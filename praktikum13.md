@@ -68,3 +68,4 @@ cout << endl;
 ![Screenshot (35)](https://github.com/annisayustiani/TugasPemograman/assets/156889081/f281f5e4-b92d-44e2-bf8c-d86db924fa60)
 # Capture Hasil Running ke 2
 ![Screenshot (37)](https://github.com/annisayustiani/TugasPemograman/assets/156889081/de2af139-401e-4b6a-a958-8fc29d9f46f9)
+Program di atas menjelaskan beberapa kelas untuk merepresentasikan hewan predator tertentu yaitu Harimau, Singa, dan Macan. Kelas-kelas ini merupakan turunan dari kelas dasar Hewan, yang memiliki metode untuk mendeskripsikan karakteristik umum predator, seperti memiliki taring dan cakar.
